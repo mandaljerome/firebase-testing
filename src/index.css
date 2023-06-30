@@ -5,3 +5,18 @@
    padding: 0;
    box-sizing: border-box;
 }
+
+body {
+   font-family: sans-serif;
+   background-color: #cdcdcd;
+}
+
+img {
+   max-width: 100%;
+}
+
+.container {
+   max-width: 500px;
+   width: 85%;
+   margin: 0 auto;
+}
